@@ -7,9 +7,10 @@
 //
 
 #include <iostream>
+using std::cout;
+using std::endl;
 
 int main(int argc, const char * argv[]) {
-    // insert code here...
-    std::cout << "Hello, World!\n";
+    cout << "Professor Hartman does not need a grade." << endl;
     return 0;
 }
