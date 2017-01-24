@@ -12,5 +12,7 @@ using std::endl;
 
 int main(int argc, const char * argv[]) {
     cout << "Professor Hartman does not need a grade." << endl;
+    cout << "Alexander Eckert should get an A on Assignment 1,\n";
+    cout << "because he was the first student doing it." << endl;
     return 0;
 }
