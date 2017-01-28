@@ -29,6 +29,7 @@ int main(int argc, const char * argv[]) {
 	cout << endl;
 	// Bryan Burkhardt
 	cout << "Bryan gets a " << 1000%900 << " on Assignment 1." << endl;
+	cout << "Trace Braxling should get an A on assignment 1" << endl;
 	// End Bryan Burkhardt
     return 0;
 }
