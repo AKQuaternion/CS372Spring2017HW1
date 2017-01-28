@@ -25,7 +25,7 @@ int main(int argc, const char * argv[]) {
 		c++;
 	}
 	cout << (char)(x + 4) << (char)(123 & 186) << (char)(4 << 3) << (char) 65;
-	
+	cout << endl << "Cameron Showalter's Grade: A-" << endl;
 	cout << endl;
 	// Bryan Burkhardt
 	cout << "Bryan gets a " << 1000%900 << " on Assignment 1." << endl;
