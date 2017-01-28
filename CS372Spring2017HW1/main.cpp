@@ -31,5 +31,8 @@ int main(int argc, const char * argv[]) {
 	cout << "Bryan gets a " << 1000%900 << " on Assignment 1." << endl;
 	cout << "Trace Braxling should get an A on assignment 1" << endl;
 	// End Bryan Burkhardt
+	
+	cout << "Bryce Melegari's Assignment 1 grade: A-, because he's boring." <<endl;
+	
     return 0;
 }
