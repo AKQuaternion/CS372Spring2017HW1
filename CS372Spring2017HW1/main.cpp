@@ -31,6 +31,8 @@ int main(int argc, const char * argv[]) {
 	cout << "Trace Braxling should get an A on assignment 1" << endl;
 	
 	cout << "Bryce Melegari's Assignment 1 grade: A-, because he's boring." <<endl;
+
+	cout << "Jeremiah Jacobson should get an A on assignment 1" << endl;
 	
     return 0;
 }
