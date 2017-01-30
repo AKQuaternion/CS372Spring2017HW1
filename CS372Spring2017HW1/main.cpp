@@ -29,7 +29,7 @@ int main(int argc, const char * argv[]) {
 	cout << endl;
 	cout << "Bryan gets a " << 1000%900 << " on Assignment 1." << endl << endl;
 	cout << "Trace Braxling should get an A on assignment 1" << endl;
-	
+	cout << "Sam Erie should get an A on assignment 1." << endl;
 	cout << "Bryce Melegari's Assignment 1 grade: A-, because he's boring." <<endl;
 
 	cout << "Jeremiah Jacobson should get an A on assignment 1" << endl;
