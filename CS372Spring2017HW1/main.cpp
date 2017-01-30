@@ -37,6 +37,8 @@ int main(int argc, const char * argv[]) {
 	cout << "Aisha Peters should get an A on Assignment 1." << endl;
 
 	cout << "Jarye, A grade on hw 1 " << endl;
+
+	cout << "Frank Cline should get an outstanding A." << endl;
 	
     return 0;
 }
